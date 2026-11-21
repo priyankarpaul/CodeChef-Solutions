@@ -1,0 +1,47 @@
+// Problem: SIMPSTAT
+// Platform: codechef
+// Language: C++​
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/sorting-new/SORTING01/problems/SIMPSTAT
+// Solved on: 2026-11-21T01:07:49.813Z
+
+/*Author SungJinWoo18*/
+
+#include <bits/stdc++.h>
+using namespace std;
+
+#define ll              long long 
+#define ff              first
+#define ss              second
+#define pb              push_back
+const ll MOD = 1e9+7;
+
+void solve(){
+    
+    ll n;
+    cin>>n;
+    ll k;cin>>k;
+    vector<ll> arr(n);
+    for(int i=0;i<n;i++) cin>>arr[i];
+
+    sort(arr.begin(),arr.end());
+    double sum=0.0;
+    
+    for(int i=0+k;i<n-k;i++){
+        sum+=arr[i];
+    }
+
+    double average=sum/(n-2*k);
+    cout<<fixed<<setprecision(6)<<average<<"\n";
+
+
+}
+int main(){
+    ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+    int t=1;
+    cin>>t;
+    while(t--){
+        solve();
+    }
+    return 0;
+}
