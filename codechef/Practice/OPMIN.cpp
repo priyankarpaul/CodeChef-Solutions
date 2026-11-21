@@ -3,7 +3,7 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/arrays-new/ARRAYSP01/problems/OPMIN
-// Solved on: 2026-11-21T01:13:49.363Z
+// Solved on: 2026-11-21T01:18:47.766Z
 
 class Solution {
 public:
