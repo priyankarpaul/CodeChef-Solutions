@@ -1,0 +1,8 @@
+// Problem: Difference Pairs
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/viewsolution/1034757394
+// Solved on: 2026-11-21T01:34:45.033Z
+
+// source not captured automatically - open the solution page and copy it manually
