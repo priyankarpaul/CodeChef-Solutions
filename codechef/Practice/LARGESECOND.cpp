@@ -3,7 +3,7 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/arrays-new/ARRAYSP01/problems/LARGESECOND
-// Solved on: 2026-11-21T01:17:34.043Z
+// Solved on: 2026-11-21T01:18:32.172Z
 
 /*Author SungJinWoo18*/
 
