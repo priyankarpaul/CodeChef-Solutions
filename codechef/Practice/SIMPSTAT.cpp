@@ -3,7 +3,7 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/sorting-new/SORTING01/problems/SIMPSTAT
-// Solved on: 2026-11-21T01:07:49.813Z
+// Solved on: 2026-11-21T01:15:19.285Z
 
 /*Author SungJinWoo18*/
 
