@@ -3,7 +3,7 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/arrays-new/ARRAYSP01/problems/MAXCONSECU
-// Solved on: 2026-11-21T01:14:43.591Z
+// Solved on: 2026-11-21T01:19:54.143Z
 
 int findMaxConsecutiveOnes(vector<int>& nums) {
     //write code here...
