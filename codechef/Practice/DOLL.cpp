@@ -3,7 +3,7 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/arrays-new/ARRAYSP01/problems/DOLL
-// Solved on: 2026-11-21T01:14:00.299Z
+// Solved on: 2026-11-21T01:18:59.421Z
 
 /*Author SungJinWoo18*/
 
