@@ -3,7 +3,7 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/sorting-new/SORTING01/problems/TSORT
-// Solved on: 2026-11-21T01:07:39.666Z
+// Solved on: 2026-11-21T01:15:07.434Z
 
 /*Author SungJinWoo18*/
 
