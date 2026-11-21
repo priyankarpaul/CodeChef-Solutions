@@ -1,8 +1,0 @@
-// Problem: Most Frequent Letter
-// Platform: codechef
-// Language: true
-// Verdict: Accepted
-// URL: https://www.codechef.com/viewsolution/1397469913
-// Solved on: 2026-11-21T00:50:59.201Z
-
-// source not captured automatically - open the solution page and copy it manually
