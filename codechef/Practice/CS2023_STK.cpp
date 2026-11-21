@@ -3,7 +3,7 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/arrays-new/ARRAYSP01/problems/CS2023_STK
-// Solved on: 2026-11-21T01:07:28.563Z
+// Solved on: 2026-11-21T01:14:54.415Z
 
 /*Author SungJinWoo18*/
 
