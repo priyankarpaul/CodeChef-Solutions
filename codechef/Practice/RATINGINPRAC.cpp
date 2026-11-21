@@ -3,7 +3,7 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/arrays-new/ARRAYSP01/problems/RATINGINPRAC
-// Solved on: 2026-11-21T01:14:20.955Z
+// Solved on: 2026-11-21T01:19:30.698Z
 
 /*Author SungJinWoo18*/
 
