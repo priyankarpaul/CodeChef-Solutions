@@ -1,8 +1,0 @@
-// Problem: Confusing Numbers
-// Platform: codechef
-// Language: false
-// Verdict: Accepted
-// URL: https://www.codechef.com/viewsolution/1396737075
-// Solved on: 2026-11-21T00:46:50.524Z
-
-// source not captured automatically - open the solution page and copy it manually
