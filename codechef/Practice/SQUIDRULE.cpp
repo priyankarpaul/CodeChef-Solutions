@@ -3,7 +3,7 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/arrays-new/ARRAYSP01/problems/SQUIDRULE
-// Solved on: 2026-11-21T01:14:32.984Z
+// Solved on: 2026-11-21T01:19:39.894Z
 
 /*Author SungJinWoo18*/
 
