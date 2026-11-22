@@ -1,0 +1,8 @@
+// Problem: Squash
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/viewsolution/1395472132
+// Solved on: 2026-11-22T19:43:18.889Z
+
+// source not captured automatically - open the solution page and copy it manually
