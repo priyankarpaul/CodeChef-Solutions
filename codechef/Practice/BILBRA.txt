@@ -1,0 +1,8 @@
+// Problem: Explained Solutions
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/problems/BILBRA?tab=submissions
+// Solved on: 2026-11-24T19:38:06.897Z
+
+// source not captured automatically - open the solution page and copy it manually
