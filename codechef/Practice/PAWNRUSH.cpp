@@ -3,6 +3,6 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/START266B/problems/PAWNRUSH
-// Solved on: 2026-11-25T15:04:16.152Z
+// Solved on: 2026-11-25T15:23:48.216Z
 
-7
+// source not captured automatically - open the solution page and copy it manually
