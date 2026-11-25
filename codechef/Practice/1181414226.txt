@@ -1,0 +1,8 @@
+// Problem: The Wave
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/viewsolution/1181414226
+// Solved on: 2026-11-25T05:20:00.796Z
+
+// source not captured automatically - open the solution page and copy it manually
