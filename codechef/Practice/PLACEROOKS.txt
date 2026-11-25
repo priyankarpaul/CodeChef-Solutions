@@ -1,0 +1,8 @@
+// Problem: PLACEROOKS
+// Platform: codechef
+// Language: ​​
+// Verdict: Accepted
+// URL: https://www.codechef.com/START266B/problems/PLACEROOKS
+// Solved on: 2026-11-25T15:00:30.269Z
+
+# cook your dish here
