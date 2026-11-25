@@ -2,7 +2,7 @@
 // Platform: codechef
 // Language: C++​
 // Verdict: Accepted
-// URL: https://www.codechef.com/START266B/problems/DBLDROP?tab=statement
-// Solved on: 2026-11-25T14:46:02.929Z
+// URL: https://www.codechef.com/START266B/problems/DBLDROP
+// Solved on: 2026-11-25T15:03:08.992Z
 
-// source not captured automatically - open the solution page and copy it manually
+# cook your dish here
