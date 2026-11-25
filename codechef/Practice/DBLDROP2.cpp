@@ -3,7 +3,7 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/START266B/problems/DBLDROP2
-// Solved on: 2026-11-25T15:00:45.649Z
+// Solved on: 2026-11-25T15:39:57.516Z
 
 4
 3
